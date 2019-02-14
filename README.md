@@ -1,7 +1,7 @@
 <html>
   <style>
   .green-text {
-  color: green;
+  colour: green;
   }
   </style>
   
