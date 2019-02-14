@@ -5,6 +5,8 @@
   </style>
   
 # hello-world
-First repository
+<h2 class="green-text>First repository</h2>
 
-My name is Manny, and my teenage nickname was Moos. I'm starting my programming journey today - woop woop!
+<p>
+  My name is Manny, and my teenage nickname was Moos. I'm starting my programming journey today - woop woop!
+</p>
