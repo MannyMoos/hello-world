@@ -1,17 +1,12 @@
-  <style>
-  .green-text {
-  color: green;
-  }
-  </style>
-  
-<h2 class="green-text">Green Green Green</h2>
-
-<p>
-  My name is Manny, and my teenage nickname was Moos. I'm starting my programming journey today - woop woop!
-</p>
-
-<ul>
-  <li>a a a a</li>
-  <li>  b b b b b b</li>
-  </ul>
- 
+<!DOCTYPE html>
+<html>
+  <!-- metadata from here -->
+  <head>
+    <title>Hello World - My first page<title>
+      </head>
+      <body>
+        <!-- content starts from here -->
+        <h1>Hello World!</h1>
+        My first page... <em>wish me luck</em>
+      </body>
+      </html>
