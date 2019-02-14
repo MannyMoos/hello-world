@@ -1,5 +1,5 @@
 <style>
-  body {
+  .green-text {
   color: green;
   }
   </style>
