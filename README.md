@@ -1,8 +1,6 @@
 <style>
   body {
-  background-color: yellow;
-  font-family: arial;
-  font-size: 20px
+  color: green;
   }
   </style>
   
