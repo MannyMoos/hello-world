@@ -16,5 +16,6 @@
     <!-- content from here -->
     <h1>Hello World!</h1>
     <p>My first page... <em>wish me luck</em></p>
+  <p>click here <a href="https://thewanderingmother.com/">to see my amazing blog</a></p>
  </body> 
 </html>
